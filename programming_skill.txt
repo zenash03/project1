@@ -1,0 +1,12 @@
+- Javascript
+  - ReactJS
+  - Vue JS
+  - JQuery
+- PHP
+  - PHP OOP
+  - PHP Native
+  - Laravel
+- C#
+- Mobile Apps
+  - Kotlin
+  - Java
