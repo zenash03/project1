@@ -5,8 +5,9 @@
 - PHP
   - PHP OOP
   - PHP Native
-  - Laravel
+  - CodeIgniter
 - C#
 - Mobile Apps
   - Kotlin
   - Java
+  
